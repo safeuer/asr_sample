@@ -1,0 +1,10 @@
+R version 4.3.1 (2023-06-16)
+Platform: x86_64-apple-darwin20 (64-bit)
+Running under: macOS Monterey 12.7.2
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] forcats_1.0.0     lme4_1.1-34       Matrix_1.5-4.1    data.table_1.14.8 jsonlite_1.8.7    english_1.2-6     stm_1.3.6         quanteda_3.3.1   
+ [9] caret_6.0-94      lattice_0.21-8    readxl_1.4.2      ggplot2_3.4.2     dplyr_1.1.2      
